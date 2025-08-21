@@ -1,7 +1,7 @@
 <SiafEntries>
-  <!--Generated 2024-10-18T15:11:26.317 utc-->
+  <!--Generated 2025-08-21T19:31:58.466 utc-->
   <!--by tsohn-->
-  <!--pysiaf version 0.23.4.dev10+g39813ee.d20241018-->
+  <!--pysiaf version 0.23.4.dev12+g2539dd54c.d20250821-->
   <SiafEntry>
     <InstrName>FGS</InstrName>
     <AperName>FGS1_FULL_OSS</AperName>
@@ -3858,8 +3858,8 @@
     <YSciRef/>
     <XSciScale/>
     <YSciScale/>
-    <V2Ref>196.300000</V2Ref>
-    <V3Ref>181.806000</V3Ref>
+    <V2Ref>205.895000</V2Ref>
+    <V3Ref>176.798000</V3Ref>
     <V3IdlYAngle>0.05134242</V3IdlYAngle>
     <VIdlParity>1</VIdlParity>
     <DetSciYAngle/>
